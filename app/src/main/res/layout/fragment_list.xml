@@ -6,7 +6,8 @@
              tools:context="com.softs.mt.fragmentsrecyclerview.ListFrag">
 
     <android.support.v7.widget.RecyclerView
-        android:id="@+id/list"
+        android:id="@+id/fraglist"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
+        android:visibility="visible"/>
 </LinearLayout>
